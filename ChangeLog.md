@@ -1,0 +1,1 @@
+The Soundflower Change Log is now hosted @ https://github.com/Cycling74/Soundflower/wiki/Change-Log
